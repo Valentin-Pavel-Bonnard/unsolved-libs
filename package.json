@@ -1,0 +1,10 @@
+{
+  "name": "unsolved-libs",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/mapped-types": "^0.1.0"
+  }
+}
